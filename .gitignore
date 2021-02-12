@@ -8,4 +8,8 @@ project-6/package-lock.json
 
 package-lock.json
 
+build/
+
+.DS_Store
+
 yarn.lock
