@@ -38,14 +38,10 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 ![UML](img/classes.png)
 
 ## Libraries
-`truffle-hdwallet-provider` HD Wallet-enabled Web3 provider was used to sign transactions for addresses derived from a 12
-To  install `truffle-hdwallet-provider`, run the following command:
-
-`npm install --save truffle-hdwallet-provider`
-
-`truffle-assertions` : Assertion library used  to verify the emitted events
-
-`npm install --save truffle-assertions`
+1. `truffle-hdwallet-provider` : HD Wallet-enabled Web3 provider was used to sign transactions for addresses derived from a 12
+* `npm install --save truffle-hdwallet-provider`
+2. `truffle-assertions` : Assertion library used  to verify the emitted events
+* `npm install --save truffle-assertions`
 
 
 
