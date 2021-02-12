@@ -1,0 +1,11 @@
+.secret
+
+node_modules/
+
+project-6/node_modules/
+
+project-6/package-lock.json
+
+package-lock.json
+
+yarn.lock
